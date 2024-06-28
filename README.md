@@ -9,5 +9,4 @@ Usando Laravel é possivel o usuario enviar e gerenciar artes enviadas para o si
 ## Authors
 
 - [@PedroMaxis](https://github.com/PedroMaxis) - Back-end
-- [@JoaoGVieira](https://github.com/JoaoGVieira) - Front-end
 
