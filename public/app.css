@@ -1,0 +1,357 @@
+body{margin:0}
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  background: #232800;
+  padding: 0px 0px 0px 36px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  position: relative;
+  overflow: hidden;
+}
+.art-lumi-re {
+  text-decoration: none;
+  color: #ffffff;
+  text-align: left;
+  font-family: "KottaOne-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-19 {
+  padding: 18px 50px 18px 50px;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 360px;
+  height: 84px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-20 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.bem-vindo-admin {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PoiretOne-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.icon-person {
+  flex-shrink: 0;
+  width: 41.69px;
+  height: 34px;
+  position: relative;
+  overflow: visible;
+}
+.frame-2,
+.frame-2 * {
+  box-sizing: border-box;
+}
+.frame-2 {
+  background: #232800;
+  padding: 25px 605px 25px 605px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 1;
+}
+.criado-com-3-pelo-pitucao {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PoiretOne-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-21,
+.frame-21 * {
+  box-sizing: border-box;
+  
+}
+.frame-21 {
+  padding: 351px 599px 351px 599px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  height: 903px;
+  position: relative;
+  overflow: hidden;
+}
+.ultimas-artes {
+  color: #000000;
+  text-align: left;
+  font-family: "KottaOne-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+}
+._00-primary-button {
+  background: #000000;
+  border-radius: 8px;
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 40px;
+  position: relative;
+}
+.artes {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KottaOne-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-3,
+.frame-3 * {
+  box-sizing: border-box;
+}
+.frame-3 {
+  padding: 49px 44px 49px 44px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content:center;
+  height: 706px;
+  position: relative;
+  overflow: hidden;
+  gap: 100px;
+}
+.working {
+  border-radius: 9px;
+  flex-shrink: 0;
+  width: 636px;
+  height: 587px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.frame-22 {
+  background: #e2e2e2;
+  border-radius: 13px;
+  flex-shrink: 0;
+  width: 629px;
+  height: 577px;
+  position: relative;
+  overflow: hidden;
+}
+.sobre-nos {
+  color: #000000;
+  text-align: left;
+  font-family: "KottaOne-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 26px;
+  top: 51px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit-esse-cillum-dolore-eu-fugiat-nulla-pariatur-excepteur-sint-occaecat-cupidatat-non-proident-sunt-in-culpa-qui-officia-deserunt-mollit-anim-id-est-laborum {
+  color: #000000;
+  text-align: left;
+  font-family: "KottaOne-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 26px;
+  top: 120px;
+  width: 556px;
+  height: 243px;
+}
+.frame-26 {
+  width: 629px;
+  height: 216px;
+  position: absolute;
+  left: 0px;
+  top: 349px;
+  overflow: hidden;
+}
+.frame-23 {
+  padding: 7px 23px 7px 23px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: center;
+  justify-content: center;
+  width: 185px;
+  position: absolute;
+  left: 13px;
+  top: 7px;
+  overflow: hidden;
+}
+.user-photo {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 127px;
+  height: 136px;
+  position: relative;
+  object-fit: cover;
+}
+.criador-da-empresa {
+  color: #000000;
+  text-align: center;
+  font-family: "KottaOne-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: bolder;
+  position: relative;
+  align-self: stretch;
+}
+.cargo {
+  color: #000000;
+  text-align: center;
+  font-family: "PoiretOne-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-24 {
+  padding: 7px 23px 7px 23px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: center;
+  justify-content: center;
+  width: 185px;
+  position: absolute;
+  left: 205px;
+  top: 7px;
+  overflow: hidden;
+}
+.frame-25 {
+  padding: 7px 23px 7px 23px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: center;
+  justify-content: center;
+  width: 185px;
+  position: absolute;
+  left: 397px;
+  top: 7px;
+  overflow: hidden;
+}
+.frame-6,
+.frame-6 * {
+  box-sizing: border-box;
+}
+.frame-6 {
+  padding: 8px 4px 8px 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-5 {
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 386px;
+  height: 391px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-28 {
+  padding: 8px 9px 8px 9px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 526px;
+  height: 391px;
+  position: relative;
+  overflow: hidden;
+}
+.titulo-da-arte {
+  color: #000000;
+  text-align: left;
+  font-family: "KottaOne-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.desc {
+  color: #000000;
+  text-align: left;
+  font-family: "KottaOne-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 191px;
+}
+.por-fulano {
+  color: #000000;
+  text-align: left;
+  font-family: "PoiretOne-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+
+.frame-27{
+  flex-shrink: 1;
+  padding-top: 2%;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.ultimas-artes{
+  display: flexbox;
+  flex-shrink: 1;
+  font-weight: 700;
+  font-size: 2vw;
+}
+.frame-16{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 1;
+}
