@@ -18,7 +18,6 @@
 </header>
 <div id="container">
     @yield('content')
-
 </div>
 <footer class="frame-2">
   <div class="criado-com-3-pelo-pitucao">Criado com &lt;3 pelo Pitucao</div>

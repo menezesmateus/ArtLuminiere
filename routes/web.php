@@ -11,3 +11,6 @@ Route::get('/artes', function () {
 Route::get('/user', function () {
     return view('user');
 });
+Route::get('/modal', function () {
+    return view('modal');    
+});
